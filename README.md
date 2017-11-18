@@ -1,8 +1,8 @@
-#hello - friendly greeting program
+hello - friendly greeting program
 
-###hello [OPTION]...
+hello [OPTION]...
 
-##DESCRIPTION
+DESCRIPTION
 Print a friendly, customizable greeting.
 
        -h, --help
